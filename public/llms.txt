@@ -1,0 +1,26 @@
+# Re-Open
+
+> We've accepted dysfunction as destiny. We've mistaken learned helplessness for wisdom. It doesn't have to be this way.
+
+## What Re-Open Is
+
+Re-Open is a civic engagement platform and manifesto for renewing American society. It challenges the learned helplessness that has caused Americans to accept broken systems in healthcare, housing, education, and governance as inevitable.
+
+The premise: the problems aren't unsolvable — they're political. Other democracies have solved them. We can too.
+
+## Core Message
+
+Americans have been conditioned to see systemic dysfunction as natural law. Healthcare costs that bankrupt families. Housing that a teacher or firefighter can't afford. Schools that vary wildly based on zip code. A governing class more responsive to donors than constituents.
+
+Re-Open argues these are policy choices, not destiny — and that collective action, informed by clear thinking, can change them.
+
+## Site
+
+Single-page Next.js 15 site at https://re-open.us. Includes:
+- A waving American flag canvas animation
+- Five sections: Hero, The Problem, Where We've Given Up, The Conviction, Join
+- Email signup for updates
+
+## Built By
+
+Kirk Wessman (https://kirkwessman.com)
